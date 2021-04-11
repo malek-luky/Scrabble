@@ -1,0 +1,1 @@
+This repository is the first programming project of my life. The task was to implement the agent who will play against other players from the CTU. I was second from more than 100 students.
